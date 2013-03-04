@@ -1,34 +1,34 @@
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8"><h2>Navigation</h2>
 	<ul>
-		<li>home page</li>
+		<li><a href="../index.html">home page</a></li>
 		</ul>
 	<h2>The Doctors</h2>
 	<ul>
-		<li>The First Doctor</li>
-		<li>The Second Doctor</li>
-		<li>The Third Doctor</li>
-		<li>The Fourth Doctor</li>
-		<li>The Fifth Doctor</li>
-		<li>The Sixth Doctor</li>
-		<li>The Seveneth Doctor</li>
-		<li>The Eighth Doctor</li>
-		<li>The Ninth Doctor</li>
-		<li>The Tenth Doctor</li>
-		<li>The Eleventh Doctor</li>
+		<li><a href="../doctor-who/doctor-who-01.html">The First Doctor</a></li>
+		<li><a href="../doctor-who/doctor-who-02.html">The Second Doctor</a></li>
+		<li><a href="../doctor-who/doctor-who-03.html">The Third Doctor</a></li>
+		<li><a href="../doctor-who/doctor-who-04.html">The Fourth Doctor</a></li>
+		<li><a href="../doctor-who/doctor-who-05.html">The Fifth Doctor</a></li>
+		<li><a href="../doctor-who/doctor-who-06.html">The Sixth Doctor</a></li>
+		<li><a href="../doctor-who/doctor-who-07.html">The Seveneth Doctor</a></li>
+		<li><a href="../doctor-who/doctor-who-08.html">The Eighth Doctor</a></li>
+		<li><a href="../doctor-who/doctor-who-09.html">The Ninth Doctor</a></li>
+		<li><a href="../doctor-who/doctor-who-10.html">The Tenth Doctor</a></li>
+		<li><a href="../doctor-who/doctor-who-11.html">The Eleventh Doctor</a></li>
 		</ul>
 	<h2>The Enemies</h2>
 	<ul>
-		<li>Dalek</li>
-		<li>Ood</li>
-		<li>Cyberman</li>
-		<li>Slitheen</li>
-		<li>Time Lords</li>
+		<li><a href="../enemies/dalek.html">Dalek</a></li>
+		<li><a href="../enemies/ood.html">Ood</a></li>
+		<li><a href="../enemies/cybermen.html">Cyberman</a></li>
+		<li><a href="../enemies/slitheen.html">Slitheen</a></li>
+		<li><a href="../enemies/time-lords.html">Time Lords</a></li>
 		</ul>
 	<h2>The Companions</h2>
 	<ul>
-		<li>Amy Pond</li>
-		<li>Mickey Smith</li>
-		<li>River Song</li>
-		<li>Rory Williams</li>
-		<li>Rose Tyler</li>
+		<li><a href="../companions/amy-pond.html">Amy Pond</a></li>
+		<li><a href="../companions/mickey-smith.html">Mickey Smith</a></li>
+		<li><a href="../companions/river-song.html">River Song</a></li>
+		<li><a href="../companions/rory-williams.html">Rory Williams</a></li>
+		<li><a href="../companions/rose-tyler.html">Rose Tyler</a></li>
 	</ul>
